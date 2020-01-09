@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Mission Chinese Food",
+    "address": "171 E Broadway, New York, NY 10002",
+    "menu_list": [
+      {
+        "type_food": "pizza",
+        "food_list": [
+          {
+            "foodName": "Pizza con jamón y morrones",
+            "description": "Salsa de tomates frescos, mozzarella, jamón cocido, morrones rojos asados, aceitunas verdes y orégano.",
+            "price": 580.89
+          },
+          {
+            "foodName": "Pizza palmitos",
+            "description": "Salsa de tomates frescos, mozzarella, palmitos, jamón cocido natural Campo Austral, huevo duro, salsa golf, aceitunas verdes y orégano.",
+            "price": 440.25
+          },
+          {
+            "foodName": "Pizza de muzzarella",
+            "description": "Salsa de tomates frescos, mozzarella Sapore Italiano, aceitunas verdes y orégano.",
+            "price": 420.99
+          },
+          {
+            "foodName": "Pizza provolone",
+            "description": "Salsa de tomates frescos, mozzarella, provolone, aceitunas negras, pimienta negra recién molida y orégano.",
+            "price": 529.19
+          }
+        ]
+      },
+
+      {
+        "type_food": "sandwitch",
+        "food_list": [
+          {
+            "foodName": "Melt",
+            "description": "Pan recién horneado con exquisitas fetas de pavo y jamón, tocino crujiente y queso derretido.",
+            "price": 117.89
+          },
+          {
+            "foodName": "Cordon Bleu",
+            "description": "Deliciosos trocitos de pechuga de pollo con jamón y queso derretido.",
+            "price": 152.25
+          },
+          {
+            "foodName": "Atún",
+            "description": "Una deliciosa ensalada de atún fresco con mayonesa, acompañado de los vegetales y aderezos que vos prefieras, en pan recién horneado.",
+            "price": 74.99
+          },
+          {
+            "foodName": "Deleite Vegetariano",
+            "description": "La combinación que vos prefieras de lechuga, morrones, cebolla, pepinos, aceitunas y aderezos a elección sobre pan recién horneado.",
+            "price": 91.19
+          }
+        ]
+      },
+      {
+        "type_food": "pasta",
+        "food_list": [
+          {
+            "foodName": "Trenette al Pesto",
+            "description": "Su intenso color verde desvela una de las salsas más famosas de Italia: el pesto",
+            "price": 117.89
+          },
+          {
+            "foodName": "Fetuccini alla puttanesca",
+            "description": "Contiene ajo, tomate, guindillas secas, aceite de oliva virgen y anchoas en salmuera.",
+            "price": 152.25
+          },
+          {
+            "foodName": "Pansotti alla genovese",
+            "description": "Tipo de pasta similar a los ravioli pero mucho más grandes.",
+            "price": 74.99
+          },
+          {
+            "foodName": "Spaguetti al ragú alla bolognese",
+            "description": "Uno de los platos italianos más internacionalizados y con más variantes que existen",
+            "price": 91.19
+          }
+        ]
+      },
+      {
+        "type_food": "bebidas",
+        "food_list": [
+          {
+            "foodName": "Coca-Cola",
+            "description": "Gaseosa Coca-Cola Sabor Original 2,25 Lts.",
+            "price": 117.89
+          },
+          {
+            "foodName": "Seven Up",
+            "description": "Gaseosa Seven Up Lima 3 Lts.",
+            "price": 152.25
+          },
+          {
+            "foodName": "Fanta",
+            "description": "Gaseosa Fanta Naranja 1,75 Lt.",
+            "price": 74.99
+          },
+          {
+            "foodName": "Schweppes",
+            "description": "Pomelo Schweppes Zero 2,25 Lt.",
+            "price": 91.19
+          }
+        ]
+      }
+    ]
+  }
+]

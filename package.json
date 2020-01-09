@@ -1,0 +1,32 @@
+{
+  "name": "server-challenge-despegar",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./api/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gacarames/frontend-challenge-almundo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gacarames/frontend-challenge-almundo/issues"
+  },
+  "homepage": "https://github.com/gacarames/frontend-challenge-almundo#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "request": "^2.88.0",
+    "rss-to-json": "^1.0.5",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
