@@ -24,7 +24,7 @@
     "morgan": "^1.9.1",
     "request": "^2.88.0",
     "rss-to-json": "^1.0.5",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
